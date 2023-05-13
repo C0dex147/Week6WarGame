@@ -1,0 +1,15 @@
+{
+  "name": "week6war",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Week6Final.js",
+  "scripts": {
+    "test": "mocha Week6Final.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
